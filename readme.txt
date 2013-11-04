@@ -1,4 +1,4 @@
-[Settings]
+    [Settings]
 NumFields=3
 
 [Field 1]
