@@ -17,12 +17,5 @@ Right=85
 Top=35
 Bottom=43
 
-[Field 3]
-Type=Listbox
-Text=Listbox
-ListItems=中国 (CN)|美国 (US)|日本 (JP)
-Left=92
-Right=219
-Top=35
-Bottom=123
+
 
