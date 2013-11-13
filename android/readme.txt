@@ -15,7 +15,7 @@ Text=ว๋ักิ๑ว๘ำ๒ฃบ
 Left=1
 Right=85
 Top=35
-Bottom=43
+aa
 
 
 
